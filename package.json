@@ -10,14 +10,9 @@
     "deploy": "gh-pages -d dist"
   },
   "homepage": "https://givisimo.github.io/11",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Givisimo/11.git"
-  },
   "keywords": [],
   "author": "Denys Plientikov <givisomo@gmail.com>",
   "license": "ISC",
-
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
